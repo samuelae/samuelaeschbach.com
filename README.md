@@ -1,2 +1,0 @@
-# samuelaeschbach.com
-personal website
