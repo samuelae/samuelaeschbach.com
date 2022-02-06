@@ -1,7 +1,9 @@
 ---
 home: true
+
 heroImage: /images/samuel-icon.png
-heroImageDark: /images/samuel-icon-dark.png
+heroImageDark: /images/samuel-icon-dark-2.png
+
 heroText: Samuel Aeschbach
 tagline: PhD Student Cognitive and Decision Sciences
 
@@ -14,15 +16,15 @@ actions:
     type: secondary
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+  - title: Cognitive Science
+    details: Trying to understand more of the human mind though the methods and perspectives of cognitive science.  
+  - title: Language Models
+    details: Using language models to survey the semantic mind and approach how we give meaning to the world.
+  - title: Teaching and Consulting
+    details: Interacting with others to foster a common understanding of goals and tools.
 
+footer: © 2022 Samuel Aeschbach 
 ---
 
-# Welcome my website
 
 
