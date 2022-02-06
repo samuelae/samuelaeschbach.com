@@ -7,6 +7,13 @@ module.exports = {
     // theme and its config
     theme: '@vuepress/theme-default',
     themeConfig: {
-      logo: 'https://vuejs.org/images/logo.png',
+      logo: '/images/samuel-icon.png',
+      logoDark: '/images/samuel-icon-dark.png',
+      navbar: [
+        {
+          text: 'Contact',
+          link: '/contact.md',
+        }
+      ]
     },
   }
