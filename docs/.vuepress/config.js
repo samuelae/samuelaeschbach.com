@@ -11,12 +11,12 @@ module.exports = {
       logoDark: '/images/samuel-icon-dark.png',
       navbar: [
         {
-          text: 'Contact',
-          link: '/contact.md',
-        }, 
-        {
           text: 'Works',
           link: '/works.md',
+        },
+        {
+          text: 'Contact',
+          link: '/contact.md',
         }
       ]
     },
