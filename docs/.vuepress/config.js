@@ -3,6 +3,7 @@ module.exports = {
     lang: 'en-US',
     title: 'Samuel Aeschbach',
     description: 'personal website of Samuel Aeschbach',
+    head: [['link', { rel: 'icon', href: '/images/samuel-icon.png' }]],
   
     // theme and its config
     theme: '@vuepress/theme-default',
