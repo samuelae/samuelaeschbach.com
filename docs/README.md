@@ -2,7 +2,7 @@
 home: true
 
 heroImage: /images/samuel-icon.png
-heroImageDark: /images/samuel-icon-dark-2.png
+heroImageDark: /images/samuel-icon-dark-4.png
 
 heroText: Samuel Aeschbach
 tagline: PhD Student in Cognitive and Decision Sciences
