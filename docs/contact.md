@@ -8,7 +8,7 @@ contributors: false
 
 # Contact
 
-Email me at [samuel.aeschbach@gmail.com](mailto:samuel.aeschbach@gmail.com)
+Say hi and email me at [samuel.aeschbach@gmail.com](mailto:samuel.aeschbach@gmail.com). 
 
 ## Find me on
 - [GitHub](https://github.com/samuelae)
