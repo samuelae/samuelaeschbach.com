@@ -12,6 +12,10 @@ module.exports = {
       logoDark: '/images/samuel-icon-dark.png',
       navbar: [
         {
+          text: 'Projects',
+          link: '/projects.md',
+        },
+        {
           text: 'Works',
           link: '/works.md',
         },
