@@ -19,9 +19,9 @@ Say hi and email me at [samuel.aeschbach@gmail.com](mailto:samuel.aeschbach@gmai
 - [Twitter](https://twitter.com/paemmel)
 
 ## Find me on
-[![GitHub](images/github.svg)](https://github.com/samuelae)
-[![ORCID](images/orcid.svg)](https://orcid.org/0000-0002-6167-4901)
-[![Google Scholar](images/googlescholar.svg)](https://scholar.google.com/citations?user=-C_YFkQAAAAJ&hl)
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/samuel-aeschbach/)
-[![ResearchGate](images/researchgate.svg)](https://www.researchgate.net/profile/Samuel-Aeschbach)
-[![Twitter](images/twitter.svg)](https://twitter.com/paemmel)
+[![GitHub](/images/github.svg)](https://github.com/samuelae)
+[![ORCID](/images/orcid.svg)](https://orcid.org/0000-0002-6167-4901)
+[![Google Scholar](/images/googlescholar.svg)](https://scholar.google.com/citations?user=-C_YFkQAAAAJ&hl)
+[![LinkedIn](/images/linkedin.svg)](https://www.linkedin.com/in/samuel-aeschbach/)
+[![ResearchGate](/images/researchgate.svg)](https://www.researchgate.net/profile/Samuel-Aeschbach)
+[![Twitter](/images/twitter.svg)](https://twitter.com/paemmel)
