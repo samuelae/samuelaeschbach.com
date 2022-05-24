@@ -25,4 +25,12 @@ module.exports = {
         }
       ]
     },
+    
+    // plugins
+    plugins: [
+        googleAnalyticsPlugin({
+            // options
+            id: 'G-9QJ89T4GYS',
+        }),
+    ],
   }
