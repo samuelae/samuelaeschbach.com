@@ -1,3 +1,5 @@
+const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
+
 module.exports = {
     // site config
     lang: 'en-US',
