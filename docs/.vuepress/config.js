@@ -1,4 +1,4 @@
-const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
+// const { googleAnalyticsPlugin } = require('@vuepress/plugin-google-analytics')
 
 module.exports = {
     // site config
@@ -28,11 +28,11 @@ module.exports = {
       ]
     },
     
-    // plugins
+/*     // plugins
     plugins: [
         googleAnalyticsPlugin({
             // options
             id: 'G-9QJ89T4GYS',
         }),
-    ],
+    ], */
   }
