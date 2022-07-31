@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> 53796fac259e4a060853267bf499a01b111904d8
 module.exports = {
     // site config
     lang: 'en-US',
@@ -26,8 +29,11 @@ module.exports = {
         }
       ]
     },
+<<<<<<< HEAD
      // plugins
     plugins: [
 
     ],
+=======
+>>>>>>> 53796fac259e4a060853267bf499a01b111904d8
   }
