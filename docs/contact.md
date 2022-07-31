@@ -16,4 +16,4 @@ Say hi and email me at [samuel.aeschbach@gmail.com](mailto:samuel.aeschbach@gmai
 [<img src="/images/googlescholar.svg" width="50" height="50">](https://scholar.google.com/citations?user=-C_YFkQAAAAJ&hl)
 [<img src="/images/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/samuel-aeschbach/)
 [<img src="/images/researchgate.svg" width="50" height="50">](https://www.researchgate.net/profile/Samuel-Aeschbach)
-[<img src="/images/twitter.svg" width="50" height="50">](https://twitter.com/paemmel)
+[<img src="/images/twitter.svg" width="50" height="50">](https://twitter.com/samuelaeschbach)
