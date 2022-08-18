@@ -4,6 +4,10 @@ module.exports = {
     lang: 'en-US',
     title: 'Samuel Aeschbach',
     description: 'Personal website of Samuel Aeschbach.',
+    head: [
+        ['script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-9QJ89T4GYS'}],
+        ['script', {}, "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}; gtag('js', new Date()); gtag('config', 'G-9QJ89T4GYS');"]
+    ],
     theme: defaultTheme({
         // default theme config
         navbar: [
@@ -13,15 +17,15 @@ module.exports = {
             },
             {
                 text: 'Projects',
-                link: '/projects.md',
+                link: '/projects.html',
             },            
             {
                 text: 'Works',
-                link: '/works.md',
+                link: '/works.html',
             },
             {
                 text: 'Contact',
-                link: '/contact.md',
+                link: '/contact.html',
             },
         ],
         logo: '/images/samuel-icon.png',
