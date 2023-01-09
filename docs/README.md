@@ -5,7 +5,7 @@ heroImage: /images/samuel-icon.png
 heroImageDark: /images/samuel-icon-dark-4.png
 
 heroText: Samuel Aeschbach
-tagline: PhD Student in Cognitive and Decision Sciences
+tagline: PhD Student in Cognitive and Decision Science
 
 actions:
   - text: Get in touch 🚀
@@ -20,6 +20,6 @@ features:
   - title: 👨🏾‍🏫 Teaching and Consulting
     details: Interacting with others to foster a common understanding of goals and tools.
 
-footer: © 2022 Samuel Aeschbach 
+footer: © 2023 Samuel Aeschbach 
 ---
 
