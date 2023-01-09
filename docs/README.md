@@ -5,7 +5,7 @@ heroImage: /images/samuel-icon.png
 heroImageDark: /images/samuel-icon-dark-4.png
 
 heroText: Samuel Aeschbach
-tagline: PhD Student in Cognitive and Decision Science
+tagline: PhD Student in Cognitive and Decision Sciences
 
 actions:
   - text: Get in touch 🚀
