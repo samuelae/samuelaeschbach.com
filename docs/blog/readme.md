@@ -6,5 +6,6 @@ lastUpdated: false
 contributors: false
 ---
 
-# hello world
-some text goes here
+# Latest posts
+
+[Hello World (31 May 2023)](/2023-05-31-hello-world.html)
