@@ -16,3 +16,6 @@ Co-Organized the SDG Hackathon - Visualizing Swiss Sustainability Research in No
 
 ## NUMERAI
 Running a [prediction model](https://numer.ai/descai) on the NUMERAI data science tournament. Thinking I will revise the model soon for a couple of years now.
+
+## Shrink GPT
+Used OpenAI's GPTs to make [Shrink GPT](https://chat.openai.com/g/g-oluXWdB2X-shrink-gpt), a GPT aimed at fostering self-reflection and emotional understanding. Happy reflecting.
