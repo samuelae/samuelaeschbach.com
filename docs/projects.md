@@ -8,6 +8,9 @@ contributors: false
 
 # Projects
 
+## associatoR
+An R package built to import, process, analyze, and visualize free association data. See [GitHub](https://github.com/samuelae/associatoR) for details and instructions.
+
 ## German Small World of Words
 Working on extending the [German version of the Small World of Words](https://smallworldofwords.org/de) project collecting free associations to thousands of German words. Participate in just 5 minutes, there are also versions in other languages.
 
