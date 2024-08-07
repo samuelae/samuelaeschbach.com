@@ -18,7 +18,7 @@ Working on extending the [German version of the Small World of Words](https://sm
 Short interview in German national public radio station Deutschlandfunk Kultur about the Small World of Words study and the use of free associations in research on language and memory. [Listen here](https://www.deutschlandfunkkultur.de/mentales-lexikon-wie-unser-gehirn-woerter-speichert-dlf-kultur-806d09cb-100.html)
 
 ### Tagesspiegel Report (28 July 2024)
-Article in German newspaper Tagesspiegel about the Small World of Words study and free associations research 
+Article in German newspaper Tagesspiegel about the Small World of Words study and free associations research. 
 [Read here](https://www.tagesspiegel.de/wissen/forscher-suchen-mitspieler-fur-experiment-wie-sind-worter-in-unserem-gedachtnis-organisiert-12075476.html)
 
 ## SDG Hackathon
