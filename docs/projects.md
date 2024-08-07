@@ -14,6 +14,13 @@ An R package built to import, process, analyze, and visualize free association d
 ## German Small World of Words
 Working on extending the [German version of the Small World of Words](https://smallworldofwords.org/de) project collecting free associations to thousands of German words. Participate in just 5 minutes, there are also versions in other languages.
 
+### Deutschlandfunk Kultur Interview (24 July 2024)
+Short interview in German national public radio station Deutschlandfunk Kultur about the Small World of Words study and the use of free associations in research on language and memory. [Listen here](https://www.deutschlandfunkkultur.de/mentales-lexikon-wie-unser-gehirn-woerter-speichert-dlf-kultur-806d09cb-100.html)
+
+### Tagesspiegel Report (28 July 2024)
+Article in German newspaper Tagesspiegel about the Small World of Words study and free associations research 
+[Read here](https://www.tagesspiegel.de/wissen/forscher-suchen-mitspieler-fur-experiment-wie-sind-worter-in-unserem-gedachtnis-organisiert-12075476.html)
+
 ## SDG Hackathon
 Co-Organized the SDG Hackathon - Visualizing Swiss Sustainability Research in November 2021 and built the website [the website](https://cdsbasel.github.io/sdghackathon2021/) for it. It was a lot of fun to set everyting up and very gratifying to see the many visualizations being uploaded in the last minutes before the deadline.
 
