@@ -17,3 +17,4 @@ Say hi and email me at [samuel.aeschbach@gmail.com](mailto:samuel.aeschbach@gmai
 [<img src="/images/linkedin.svg" width="50" height="50">](https://www.linkedin.com/in/samuel-aeschbach/)
 [<img src="/images/researchgate.svg" width="50" height="50">](https://www.researchgate.net/profile/Samuel-Aeschbach)
 [<img src="/images/twitter.svg" width="50" height="50">](https://twitter.com/samuelaeschbach)
+[<img src="/images/bluesky.svg" width="50" height="50">](https://bsky.app/profile/aeschbach.bsky.social)
