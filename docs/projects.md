@@ -9,7 +9,7 @@ contributors: false
 # Projects
 
 ## associatoR
-An R package built to import, process, analyze, and visualize free association data. See [GitHub](https://github.com/samuelae/associatoR) and the [package website](https://samuelaeschbach.com/associatoR/) for details and instructions, as well as [Aeschbach, Mata, and Wulff (2024)](https://doi.org/10.31234/osf.io/ra87s) for a preprint of a tutorial using the associatoR package. 
+An R package built to import, process, analyze, and visualize free association data. See [GitHub](https://github.com/samuelae/associatoR) and the [package website](https://samuelaeschbach.com/associatoR/) for details and instructions, as well as [Aeschbach, Mata, and Wulff (2025)](https://doi.org/10.5334/joc.407) for a preprint of a tutorial using the associatoR package. 
 
 ## German Small World of Words
 Working on extending the [German version of the Small World of Words](https://smallworldofwords.org/de) project collecting free associations to thousands of German words. Participate in just 5 minutes, there are also versions in other languages.
